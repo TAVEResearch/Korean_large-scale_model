@@ -1,1 +1,1 @@
-# Korean_larget-scale_model
+# Korean_large-scale_model
