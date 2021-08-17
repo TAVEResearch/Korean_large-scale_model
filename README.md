@@ -10,4 +10,4 @@
 - [KoBART code](https://github.com/SKT-AI/KoBART)
 
 ## 스케쥴
-- TBA
+- [Notion](https://periodic-wax-54e.notion.site/Korean-Large-scale-Model-Study-6c1587d8911e46b8beeacee0409066c2)
