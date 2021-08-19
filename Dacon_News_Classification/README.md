@@ -4,4 +4,4 @@
 |Leader Board|Rank|Score|
 |:--|:--|:--|
 |Public|21|0.86746|
-|Private|11|0.83377|
+|Private|11(상위 5%)|0.83377|
