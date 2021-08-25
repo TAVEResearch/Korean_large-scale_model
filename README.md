@@ -3,7 +3,7 @@
 - 시간: 매주 수요일 20:30
 
 ## 참여 인원
-- [박제윤](https://jeiyoon.github.io/), [김영현](https://www.notion.so/ozbhyxxn/Self-introduction-2ef0178f6cbb402ab555afa973558363), 김민규, [오예림](https://yerimoh.github.io/), [이상원](https://s-wlii.github.io/)
+- [박제윤](https://jeiyoon.github.io/), [김영현](https://www.notion.so/ozbhyxxn/Self-introduction-2ef0178f6cbb402ab555afa973558363), [김민규](https://www.notion.so/a9ddbd35c47c46ec974403a40041bd28), [오예림](https://yerimoh.github.io/), [이상원](https://s-wlii.github.io/)
 
 ## 학습 자료
 - [KoBERT code](https://github.com/SKTBrain/KoBERT)
